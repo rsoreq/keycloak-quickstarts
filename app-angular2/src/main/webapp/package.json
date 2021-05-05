@@ -30,7 +30,7 @@
     "canonical-path": "0.0.2",
     "lodash": "^4.16.4",
     "rimraf": "^2.5.4",
-    "@types/node": "^6.0.46"
+    "@types/node": "^15.0.0"
   },
   "repository": {
       "type": "git",
