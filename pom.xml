@@ -44,7 +44,7 @@
         <version.jboss.maven.plugin>7.4.Final</version.jboss.maven.plugin>
         <version.war.maven.plugin>2.6</version.war.maven.plugin>
         <version.enforcer.maven.plugin>1.4.1</version.enforcer.maven.plugin>
-        <version.surefire.plugin>2.19.1</version.surefire.plugin>
+        <version.surefire.plugin>2.22.2</version.surefire.plugin>
         <version.exec.maven.plugin>1.6.0</version.exec.maven.plugin>
         <version.antrun.maven.plugin>1.8</version.antrun.maven.plugin>
         <version.frontend.maven.plugin>1.4</version.frontend.maven.plugin>
