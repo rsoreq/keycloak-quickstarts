@@ -1111,11 +1111,6 @@ fd-slicer@~1.1.0:
   dependencies:
     pend "~1.2.0"
 
-fidelity@^4.0.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/fidelity/-/fidelity-4.2.0.tgz#bf75c9b99ef03ec6592084b05204bf65d4d47f4d"
-  integrity sha1-v3XJuZ7wPsZZIISwUgS/ZdTUf00=
-
 figures@^1.3.5:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/figures/-/figures-1.7.0.tgz#cbe1e3affcf1cd44b80cadfed28dc793a9701d2e"
@@ -2321,12 +2316,10 @@ rimraf@~2.6.2:
   dependencies:
     glob "^7.1.3"
 
-roi@^0.15.0:
-  version "0.15.0"
-  resolved "https://registry.yarnpkg.com/roi/-/roi-0.15.0.tgz#5186b0afb364f6a2185de974e7c1ff0479608af6"
-  integrity sha1-UYawr7Nk9qIYXel058H/BHlgivY=
-  dependencies:
-    fidelity "^4.0.0"
+roi@^0.17.0:
+  version "0.17.0"
+  resolved "https://registry.yarnpkg.com/roi/-/roi-0.17.0.tgz#b7e41df2976e0ba8766adb6f88f2acaa8edab587"
+  integrity sha512-qTPFybwalt/y/AGnop6Y5sJu1EhNYF5LRMYC4oYAgjXcXnLKvLy6pZWgUFOCdka+o/DJTMhf9cCTQMy8rupb3w==
 
 run-async@^0.1.0:
   version "0.1.0"
