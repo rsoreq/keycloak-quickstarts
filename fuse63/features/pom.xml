@@ -41,7 +41,7 @@
     </licenses>
 
     <properties>
-        <build.helper.maven.plugin.version>1.9.1</build.helper.maven.plugin.version>
+        <build.helper.maven.plugin.version>1.12</build.helper.maven.plugin.version>
     </properties>
 
     <build>
