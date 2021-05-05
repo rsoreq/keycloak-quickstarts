@@ -10,7 +10,7 @@
   "author": "Stan Silvert",
   "license": "Apache 2.0",
   "dependencies": {
-    "@angular/common": "~4.0.0",
+    "@angular/common": "~11.2.0",
     "@angular/compiler": "~4.0.0",
     "@angular/core": "~4.0.0",
     "@angular/forms": "~4.0.0",
