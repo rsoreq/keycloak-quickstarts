@@ -52,7 +52,7 @@
         <version.compiler.maven.plugin>3.1</version.compiler.maven.plugin>
 
         <arquillian-graphene.version>2.3.2</arquillian-graphene.version>
-        <arquillian-phantom.version>1.2.1.Final</arquillian-phantom.version>
+        <arquillian-phantom.version>1.2.1.1</arquillian-phantom.version>
         <arquillian-screenshooter.version>2.3.2</arquillian-screenshooter.version>
         <version.wildfly.arquillian.container>2.0.2.Final</version.wildfly.arquillian.container>
         <version.remote.wildfly.arquillian.container>8.2.1.Final</version.remote.wildfly.arquillian.container>
