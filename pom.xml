@@ -66,7 +66,7 @@
         <keycloak.management.port>10090</keycloak.management.port>
         <selenium-bom.version>3.11.0</selenium-bom.version>
         <arquillian-bom.version>1.4.0.Final</arquillian-bom.version>
-        <arquillian-drone-bom.version>2.5.1</arquillian-drone-bom.version>
+        <arquillian-drone-bom.version>2.5.2</arquillian-drone-bom.version>
         <version.json.javax>1.1.2</version.json.javax>
         <version.yasson>1.0.1</version.yasson>
     </properties>
