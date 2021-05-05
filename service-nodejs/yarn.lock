@@ -855,10 +855,10 @@ eslint-config-semistandard@^7.0.0-beta.0:
   resolved "https://registry.yarnpkg.com/eslint-config-semistandard/-/eslint-config-semistandard-7.0.0.tgz#f803493f56a5172f7f59c35ae648360b41f2ff71"
   integrity sha1-+ANJP1alFy9/WcNa5kg2C0Hy/3E=
 
-eslint-config-standard@^6.0.0:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-standard/-/eslint-config-standard-6.2.1.tgz#d3a68aafc7191639e7ee441e7348739026354292"
-  integrity sha1-06aKr8cZFjnn7kQec0hzkCY1QpI=
+eslint-config-standard@^16.0.0:
+  version "16.0.2"
+  resolved "https://registry.yarnpkg.com/eslint-config-standard/-/eslint-config-standard-16.0.2.tgz#71e91727ac7a203782d0a5ca4d1c462d14e234f6"
+  integrity sha512-fx3f1rJDsl9bY7qzyX8SAtP8GBSk6MfXFaTfaGgk12aAYW4gJSyRm7dM790L6cbXv63fvjY4XeSzXnb4WM+SKw==
 
 eslint-plugin-promise@^3.3.0:
   version "3.8.0"
