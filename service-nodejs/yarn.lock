@@ -850,10 +850,10 @@ escope@^3.6.0:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
-eslint-config-semistandard@^7.0.0-beta.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-semistandard/-/eslint-config-semistandard-7.0.0.tgz#f803493f56a5172f7f59c35ae648360b41f2ff71"
-  integrity sha1-+ANJP1alFy9/WcNa5kg2C0Hy/3E=
+eslint-config-semistandard@^16.0.0:
+  version "16.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-semistandard/-/eslint-config-semistandard-16.0.0.tgz#45e06374707d86a87f54086e7b8bd0b7b74a197f"
+  integrity sha512-oD8QOo4mSInRJhQb3Zi6L8HebwZaB6SI3A+NNrPdVN0nN1K45L5pXK3joY+ksWDlT3ew/M+fJk2tuMCjIpjRzQ==
 
 eslint-config-standard@^6.0.0:
   version "6.2.1"
