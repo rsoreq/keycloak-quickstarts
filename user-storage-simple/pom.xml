@@ -38,7 +38,7 @@
     </licenses>
 
     <properties>
-        <version.compiler.maven.plugin>3.5.1</version.compiler.maven.plugin>
+        <version.compiler.maven.plugin>3.8.1-jboss-2</version.compiler.maven.plugin>
     </properties>
 
     <dependencies>
