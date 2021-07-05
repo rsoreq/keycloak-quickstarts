@@ -12,7 +12,7 @@
     <artifactId>service-springboot</artifactId>
     <description>Spring Boot Keycloak Product Service</description>
     <properties>
-        <springboot-version>2.0.3.RELEASE</springboot-version>
+        <springboot-version>2.5.2</springboot-version>
         <arquillian-managed>false</arquillian-managed>
     </properties>
     <dependencyManagement>
